@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/DOI-TBD.svg)](https://doi.org/DOI-TBD)
+[![DOI](https://zenodo.org/badge/DOI/22878541.svg)](https://doi.org/22878541)
 
 # 偏元数学 · Day27 · 残差为什么消不掉（层分离 · 零点自由度 · 四相安放）· Lean 4 形式化验证
 
@@ -6,7 +6,7 @@
 
 本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
-> **DOI**：`DOI-TBD`（**发布后回填本行与顶部徽章**）。本仓库为偏元数学 S3（第三程）数学侧的**第二段**，上承 Day26 `prenary-math-lean-s3-direction-return`（对象层 `ℂ★` · 二态 · 偏元序）与 Day25 `prenary-math-lean-s3-sw-epsilon-eta`（ε↔η 映射）。
+> **DOI**：10.5281/zenodo.22878541。本仓库为偏元数学 S3（第三程）数学侧的**第二段**，上承 Day26 `prenary-math-lean-s3-direction-return`（对象层 `ℂ★` · 二态 · 偏元序）与 Day25 `prenary-math-lean-s3-sw-epsilon-eta`（ε↔η 映射）。
 
 ## 摘要
 
